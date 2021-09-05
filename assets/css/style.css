@@ -186,7 +186,7 @@ nav, .subnav {
 #slider {
     position: relative;
     padding-top: 45%;
-    background: url("/assets/css/img/anh1.jpg") top center / cover no-repeat;
+    background: url("./img/anh1.jpg") top center / cover no-repeat;
     margin: 46px 0 0 0;
     font-family: 'Dancing Script', cursive;
     border: 4px solid #333;
